@@ -1,2 +1,2 @@
-RUN_AFTER=loadstring(game:HttpGet("https://cdn.sourceb.in/bins/P0uEsu2nzq/0", true))()
+RUN_AFTER=loadstring(game:HttpGet("https://cdn.sourceb.in/bins/qPbjg99wVM/0", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Freezeer/refs/heads/main/roarlua"))()
